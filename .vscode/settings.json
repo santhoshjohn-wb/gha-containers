@@ -1,3 +1,6 @@
 {
-  "window.zoomLevel": 0
+  "window.zoomLevel": 0,
+  "yaml.schemas": {
+    "https://json.schemastore.org/github-workflow.json": "file:///Users/santhoshjohn/Desktop/my-repos/GitHub%20Actions/07%20Docker%20Containers/.github/workflows/deploy.yml"
+  }
 }
